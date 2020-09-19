@@ -1,1 +1,0 @@
-<iframe width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  src="http://a1.cric7.site/" scrolling="no"></iframe>
